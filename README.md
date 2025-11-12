@@ -41,11 +41,14 @@ Busco constantemente **aprimorar minhas habilidades técnicas** e **entregar sol
 
 ### 🏆 Conquistas Recentes
 
-| ![Badge Python para Data Science](https://cdn1.gnarususercontent.com.br/1/853787/8f040dbd-f9e9-4ccf-b67a-ecdf1ef9bd80.png) | ![Badge Análise de Dados com Pandas](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png) |
+| <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Badge Análise de Dados com Pandas" width="180"/> | <img src="https://cdn1.gnarususercontent.com.br/1/853787/8f040dbd-f9e9-4ccf-b67a-ecdf1ef9bd80.png" alt="Badge Python para Data Science" width="180"/> |
 |:--:|:--:|
-| **[Data Science Alura Challenge](https://github.com/AndreRFBaT/Data-Science-Alura-Challenge)**<br>Projeto desenvolvido no curso da **Alura**, com foco em **análise exploratória de dados (EDA)** utilizando **Python, Pandas e Matplotlib**, explorando o desempenho de quatro lojas fictícias.<br>🔗 [Ver repositório](https://github.com/AndreRFBaT/Data-Science-Alura-Challenge) | **[Programação G9 - ONE (Oracle Next Education)](https://github.com/AndreRFBaT/Programacao-G9-ONE)**<br>Projeto desenvolvido no programa **Oracle Next Education (ONE)** em parceria com a **Alura**, aplicando conceitos de **programação e lógica com Python**.<br>🔗 [Ver repositório](https://github.com/AndreRFBaT/Programacao-G9-ONE) |
+| **[Programação G9 - ONE (Oracle Next Education)](https://github.com/AndreRFBaT/Programacao-G9-ONE)**<br>Projeto desenvolvido no programa **Oracle Next Education (ONE)** em parceria com a **Alura**, aplicando conceitos de **programação e lógica com Python**.<br>🔗 [Ver repositório](https://github.com/AndreRFBaT/Programacao-G9-ONE) | **[Data Science Alura Challenge](https://github.com/AndreRFBaT/Data-Science-Alura-Challenge)**<br>Projeto desenvolvido no curso da **Alura**, com foco em **análise exploratória de dados (EDA)** utilizando **Python, Pandas e Matplotlib**, explorando o desempenho de quatro lojas fictícias.<br>🔗 [Ver repositório](https://github.com/AndreRFBaT/Data-Science-Alura-Challenge) |
+
 
 ---
+
+
 
 ### 📫 Contato
 
